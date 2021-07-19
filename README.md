@@ -1,3 +1,3 @@
-#Demo#
+# Demo
 
-Jesus is Lord of All!
+# Jesus is Lord of All!
